@@ -1,2 +1,5 @@
 we are creating a new file
+<<<<<<< HEAD
 creating a merge conflict scenario
+we are editing the file to get a merger conflict
+>>>>>>> feat1
